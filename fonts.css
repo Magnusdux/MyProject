@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'SF UI Regular';
+    src: url("../fonts/SFUIDisplay-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'SF UI SemiBold';
+    src: url("../fonts/SFUIDisplay-Semibold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF UI Bold';
+    src: url("../fonts/SFUIText-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF UI Thin';
+    src: url("../fonts/SFUIDisplay-Thin.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
